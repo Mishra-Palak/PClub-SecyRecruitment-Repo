@@ -23,6 +23,6 @@ As $n$ is a single-digit integer, removing a digit from $n$ will make it disappe
 3. $10 ≤ n ≤ 10^{18}$</br>
 Here, $n > 0$. This means dropping the largest digit of $n$ will allow us to find the smallest integer. $p$ is obtained by sorting the remaining digits.
 
-Time Complexity: $O(klogk)$ per testcase ($k$ - no. of digits of $n$).
+Time Complexity: $O(klogk)$ per testcase ( $k$ - no. of digits of $n$).
 
 ***
