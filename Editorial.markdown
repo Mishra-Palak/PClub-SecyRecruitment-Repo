@@ -1,4 +1,4 @@
-## ***One Digit Less Least*** Editorial
+## ***Least With One Less Digit*** Editorial
 By *Palak Mishra*
 ***
 
