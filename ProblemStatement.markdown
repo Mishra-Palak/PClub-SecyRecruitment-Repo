@@ -1,4 +1,4 @@
-## **One Digit Less Least**
+## **Least With One Less Digit**
 ***
 
 *time limit per test : 1 second</br>
