@@ -1,5 +1,6 @@
 # PClub-SecyRecruitment-Repo
-This is my PClub Secy Recruitment repository.
+
+This repo consists of files related to the CP problem "One Digit Less Least".
 
 Palak Mishra</br>
 BS SDS</br>
