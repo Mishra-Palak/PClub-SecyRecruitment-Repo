@@ -10,8 +10,6 @@ using namespace std;
 #define MP make_pair
 #define REP(i, a, b) for (int i = a; i < b; ++i)
 #define PER(i, a, b) for (int i = a; i < b; --i)
-#define MAX INT_MAX
-#define MIN INT_MIN
 typedef uint64_t ull;      //format-specifier - %lu
 typedef long long ll;      //format-specifier - %lld
 typedef long double dl;    //format-specifier - %Lf / %llf (For double, it is %lf)
